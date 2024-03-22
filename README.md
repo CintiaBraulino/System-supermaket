@@ -13,7 +13,7 @@ SpringBoot
 # Como executar o projeto
 Clone o repositório em sua máquina:
  
-git clone https://github.com/CintiaBraulino/System-supermaket/.git
+git clone https://github.com/CintiaBraulino/System-supermaket.git
 
 # Acesse a pasta do projeto:
 cd System-supermaketApi
